@@ -1,9 +1,8 @@
 ---
 layout: page
-permalink: /theme-setup/
-title: Theme Setup
-description: "Instructions on how to install and customize the modern Jekyll theme HPSTR."
-tags: [Jekyll, theme, install, setup]
+permalink: /about-site/
+title: About this site
+description: ""
 image:
   feature: abstract-11.jpg
   credit: dargadgetz
